@@ -1,0 +1,36 @@
+<link rel="stylesheet" media="screen" type="text/css" title="Exemple" href="#.css"/>
+
+body {
+}
+
+div {
+	background-color: #1b1725;
+}
+
+h1 {
+	color: #cd4b27;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 60px;
+	outline-style: dotted;
+	text-align: center;
+	padding: 20px;
+	margin: 0px;
+	background-color: #1b1725;
+}
+
+img {
+	margin: 0px;
+	transform: translate(75px, 0px);
+}
+	
+a	{
+	color: #cd4b27 ;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	background-color: #1b1725;
+	margin: 0px;
+	
+}
